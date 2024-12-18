@@ -1,6 +1,6 @@
 # Library Manager - A Java Application for Managing Books, Journals, and Movies.
-Library Manager is a Java-based application that allows users to manage and interact with a library of items, including books, journal, and movies.
-The system provides features such as borrowing items, rating them, and searching by ID or phrase in titles.
+Library Manager is a Java application designed to organise and manage library items, including books, journals, and movies.
+It offers features such as borrowing, rating, and searching items by ID or title phrases, all through an intuitive menu-driven interface.
 
 ---
 
