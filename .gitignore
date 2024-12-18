@@ -1,0 +1,50 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Eclipse files
+*.classpath
+*.project
+*.settings/
+
+# VS Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Target build directory (for Maven or other build tools)
+target/
+
+# Libraries or dependencies managed externally
+lib/
+bin/
+
+# Any personal configuration files
+*.env
+*.properties
+
+# Exclude test or temporary data (if applicable)
+test_data/

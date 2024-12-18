@@ -1,0 +1,12 @@
+Movie,200,The Wizard of Oz,1939,Victor Fleming
+Movie,203,The Conjuring,2013,James Wan
+Movie,206,Halloween,1978,John Carpenter
+Movie,210,Inception,2010,Christopher Nolan
+Movie,211,The Substance,2024,Coralie Fargeat
+Book,231,The Great Gatsby,1925,F. Scott Fitzgerald,218
+Book,240,Breakfast at Tiffany's,1958,Truman Capote,179
+Book,202,To Kill a Mockingbird,1960,Harper Lee,281
+Journal,207,IEEE Transactions on Computers,2009,6,8
+Journal,212,ACM Computing Surveys,2010,5,8
+Journal,215,Journal of Artificial Intelligence Research,2008,23,14
+Journal,281,Journal of Software Engineering,2009,35,12
